@@ -67,7 +67,7 @@ I’m currently preparing to study computer science, leveraging my skills in pro
 ---
 
 ### 🏆 **Achievements**  
-- Built my first rocket at age 15, demonstrating early ingenuity in aerospace mechanics.  
+- Built my first rocket at age 15y, demonstrating early ingenuity in aerospace mechanics.  
 - Developed a portfolio of impactful SaaS and AI-driven solutions.  
 - Maintained discipline in my studies, balancing academics, personal projects, and fitness.  
 
