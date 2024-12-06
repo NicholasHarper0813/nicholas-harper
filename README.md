@@ -82,4 +82,6 @@ I aim to revolutionize the fields of AI, space exploration, and software enginee
 ### 📫 **Get in Touch**  
 - **GitHub:** [github.com/NicholasHarper0813](#)  
 - **X (twitter) :** [https://x.com/nicholas-harper-096813329](#)  
-- **Email:** officialNicholaskhoualdi@gmail.com 
+- **Email:** nicholasharper000@gmail.com
+- **Mobile** +1 (480) 447 6738
+- **Telegram** 
