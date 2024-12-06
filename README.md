@@ -80,6 +80,6 @@ I aim to revolutionize the fields of AI, space exploration, and software enginee
 ---
 
 ### 📫 **Get in Touch**  
-- **GitHub:** [github.com/Nicholas-khoualdi](#)  
-- **X (twitter) :** [https://x.com/khoualdi_Nicholas](#)  
+- **GitHub:** [github.com/NicholasHarper0813](#)  
+- **X (twitter) :** [https://x.com/nicholas-harper-096813329](#)  
 - **Email:** officialNicholaskhoualdi@gmail.com 
