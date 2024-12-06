@@ -1,7 +1,7 @@
-# 💻 Yassin | Digital Craftsman 🚀
+# 💻 Nicholas | Digital Craftsman 🚀
 
 ### 👨‍💻 **About Me**  
-I am Yassin, an 18-year-old self-taught software developer, neural networks enthusiast, and SaaS founder from North Tunisia. My coding journey began at the age of 13, driven by a vision to create impactful solutions for humanity’s future. I’m a passionate learner with interests spanning artificial intelligence, space exploration, emotional well-being applications, and cutting-edge software development.  
+I am Nicholas, self-taught software developer, neural networks enthusiast, and SaaS founder from North Tunisia. My coding journey began at the age of 13, driven by a vision to create impactful solutions for humanity’s future. I’m a passionate learner with interests spanning artificial intelligence, space exploration, emotional well-being applications, and cutting-edge software development.  
 
 My ultimate goal is to understand the nature of consiousness and contribute to transformative technologies that advance civilization.
 
@@ -11,7 +11,8 @@ I’m currently preparing to study computer science, leveraging my skills in pro
 
 ### 🌟 **Skills and Technologies**  
 #### **Languages**  
-- **Python**: Advanced scripting, data analysis, and machine learning implementation.  
+- **React**: Advanced scripting, data analysis, and machine learning implementation.
+- **TypeScript**: Advanced scripting, data analysis, and machine learning implementation.  
 - **JavaScript**: Expertise in building interactive web applications and dynamic content.  
 - **PHP**: Backend development for scalable and secure web platforms.  
 - **HTML5 & CSS3**: Modern, responsive web design for UI/UX excellence.  
@@ -79,6 +80,6 @@ I aim to revolutionize the fields of AI, space exploration, and software enginee
 ---
 
 ### 📫 **Get in Touch**  
-- **GitHub:** [github.com/yassin-khoualdi](#)  
-- **X (twitter) :** [https://x.com/khoualdi_yassin](#)  
-- **Email:** officialyassinkhoualdi@gmail.com 
+- **GitHub:** [github.com/Nicholas-khoualdi](#)  
+- **X (twitter) :** [https://x.com/khoualdi_Nicholas](#)  
+- **Email:** officialNicholaskhoualdi@gmail.com 
